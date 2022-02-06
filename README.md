@@ -1,4 +1,4 @@
-# CPIT-252 Lab-2 (Singleton)
+# CPIT-252 Lab-2 (Singleton) - Abdulrahman Alosaimi
 
 
 ## What was wrong
